@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "Practice for node js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharMishra1802/Nodejs-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TusharMishra1802/Nodejs-Project/issues"
+  },
+  "homepage": "https://github.com/TusharMishra1802/Nodejs-Project#readme",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "express": "^4.18.2"
+  }
+}
